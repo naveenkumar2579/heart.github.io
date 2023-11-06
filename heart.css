@@ -1,0 +1,35 @@
+.heart1{
+    background-color: black;
+    height: 270px;
+    width: 270px;
+    transform: rotate(45deg);
+    right: 300px;
+    left: 120px; 
+    top: 380px; 
+    /* margin: 200px; */
+    /* margin-left50%: ; */
+   position: relative;
+}
+.heart2{
+    background-color: black;
+    height: 280px;
+    width: 280px;
+    border-radius: 50%;
+    position: relative;
+    top: 15px;
+    
+    left: 30px;
+    display: inline-block;
+    
+}
+.heart3{
+    background-color: black;
+    height: 280px;
+    width: 280px;
+    left: 210px;
+    
+    top: 290px;
+    border-radius: 50%;
+    position: absolute;
+    display: inline-block;
+}
